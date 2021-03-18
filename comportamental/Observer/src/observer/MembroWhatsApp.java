@@ -20,7 +20,7 @@ public class MembroWhatsApp implements Observer{
     public void update(Observable observer) {
         CaixaEntradaGrupo cx_e = (CaixaEntradaGrupo) observer;
         if (!"".equals(cx_e.getMensagem())){
-          System.out.println("Mensagem nova!");
+          System.out.println("Mensagem nova: " + cx_e.getMensagem());
         }
     }
 }
