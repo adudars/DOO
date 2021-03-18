@@ -18,6 +18,7 @@ Trabalhos didáticos que foram desenvolvidos durante a disciplina de Desenvolvim
 ##### ESTRUTURAL
 - [Adapter - em breve]()
 - [Flyweight - em breve]()
+- [Composite - em breve]()
 
 ##### COMPORTAMENTAL
 - [Observer](https://github.com/eduardarsimoes/DOO/tree/main/comportamental/Observer)
