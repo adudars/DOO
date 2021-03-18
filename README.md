@@ -1,5 +1,5 @@
 <h3 align="center">
-  <strong> 🤖 DESENVOLVIMENTO ORIENTADO A OBJETOS 🤖 </strong>
+  <strong> :computer: DESENVOLVIMENTO ORIENTADO A OBJETOS :computer: </strong>
 </h3>
 
 _________
@@ -8,7 +8,7 @@ _________
 
 Trabalhos didáticos que foram desenvolvidos durante a disciplina de Desenvolvimento Orientado a Objetos, os quais serviram como base para o aprendizado de conceitos e aplicações práticas dos conhecimentos adquiridos.
 
-### :computer: Designer Patterns
+### 🗂️ Designer Patterns
 ##### CRIAÇÃO
 - [Abstract Factory](https://github.com/eduardarsimoes/DOO/tree/main/criacao/fabricaAbstrata)
 - [Builder](https://github.com/eduardarsimoes/DOO/tree/main/criacao/builder/Refeicao/src)
