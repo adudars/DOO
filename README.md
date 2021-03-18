@@ -20,5 +20,5 @@ Trabalhos didáticos que foram desenvolvidos durante a disciplina de Desenvolvim
 - [Flyweight - em breve]()
 
 ##### COMPORTAMENTAL
-- [Observer- em breve]()
+- [Observer](https://github.com/eduardarsimoes/DOO/tree/main/comportamental/Observer)
 - [Chain of Responsibility - em breve]()
