@@ -23,4 +23,4 @@ Trabalhos didáticos que foram desenvolvidos durante a disciplina de Desenvolvim
 ##### COMPORTAMENTAL
 - [Observer](https://github.com/eduardarsimoes/DOO/tree/main/comportamental/Observer)
 - [Chain of Responsibility - em breve]()
-- [Template - em breve]()
+- [Template](https://github.com/eduardarsimoes/DOO/tree/main/comportamental/TemplateExportFiles)
